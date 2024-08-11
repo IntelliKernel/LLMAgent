@@ -1,0 +1,12 @@
+{
+    "thinkint": "我需要知道北京的天气",
+    "actions": {
+        "type": "function",
+        "function": {
+            "name": "get_weather",
+            "parameters": {
+                "location": "beijing"
+            }
+        }
+    }
+}
