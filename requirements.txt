@@ -1,0 +1,5 @@
+aiohttp==3.9.5
+aiohttp==3.10.3
+openai==1.40.3
+pydantic==2.8.2
+pydantic_settings==2.4.0
